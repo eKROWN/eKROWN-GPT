@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing merged conflicts.
+=======
+#Testing merged conflicts...
+#>>>>>>> 3rd-branch
